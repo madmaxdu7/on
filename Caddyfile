@@ -1,0 +1,3 @@
+example.com {
+  reverse_proxy /WEBHOOK_ID/* localhost:SERVER_PORT
+}

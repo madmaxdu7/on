@@ -1,0 +1,49 @@
+{
+  "name": "botstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist/src --copy-files"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.18.0",
+    "awesome-qr": "^2.1.5-rc.0",
+    "axios": "^0.21.1",
+    "babel-preset-env": "^1.7.0",
+    "binlookup": "^2.0.1",
+    "cheerio": "^1.0.0-rc.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "edit-json-file": "^1.7.0",
+    "faker-br": "^0.4.1",
+    "fastify": "^3.29.0",
+    "gpix": "^1.1.7",
+    "grammy": "^1.8.3",
+    "iso-3166-1-alpha-2": "^1.0.0",
+    "mercadopago": "^1.5.13",
+    "moment": "^2.29.4",
+    "moment-range": "^4.0.2",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^5.11.9",
+    "nock": "^13.0.11",
+    "node-telegram-bot-api": "^0.56.0",
+    "qs": "^6.9.6",
+    "randexp": "^0.5.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.0",
+    "@babel/node": "^7.17.10",
+    "@babel/preset-env": "^7.18.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^28.1.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}

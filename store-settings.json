@@ -1,0 +1,3 @@
+{
+  "lara": "Para adicionar saldo a sua conta, utilize o seguinte comando: /recarga, exemplo:\n\n/recarga 20 - Gera pagamento no valor de R$ 20,00.\n/recarga 50 - Gera pagamento no valor de R$ 50,00.\n\nApós o comando, será enviado uma mensagem contendo o código Pix(Copia e cola) e o QrCode. Escolha um dos dois para realizar o pagamento.\n\nImportante:\n\nO tempo de expiração do pagamento é 10 minutos.\nPagamentos enviados após esse tempo serão ignorados.\n\nPara realizar uma nova transação, use novamente o comando /recarga.\n\nValor mínimo do depósito é R$ 10,00, e o valor máximo é R$ 1000.00\n\nO saldo será adicionado em sua conta dentro de 1 minuto, após realizar o pagamento."
+}

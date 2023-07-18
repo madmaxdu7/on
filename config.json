@@ -1,0 +1,58 @@
+{
+  "checkers": {
+    "warlock": {
+      "tester": "",
+      "token": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "confidence": {
+      "tester": "/painel",
+      "user": "",
+      "pass": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "azkabancenter": {
+      "tester": "",
+      "user": "",
+      "pass": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "company": {
+      "tester": "",
+      "key": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "luxurious": {
+      "url": "",
+      "tester": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "playercheckers": {
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>",
+      "token": ""
+    },
+    "allcenter": {
+      "tester": "",
+      "user": "",
+      "pass": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "falselive": {
+      "obs": "• <b>Gates:</> <i>Nenhum</>"
+    },
+    "dbf": {
+      "tester": "",
+      "user": "",
+      "pass": "",
+      "obs": "• <b>Gates:</> <code>Contate o dono do checker</>"
+    },
+    "generic": {
+      "baseUrl": "http://localhost?cc=",
+      "liveMatch": "live",
+      "dieMatch": "die",
+      "obs": "• <b>Url base:</> <i>Url do checker</>\n• <b>Palavra-chave live:</> <i>Palavra-chave live para definir o cartão como aprovado </>\n• <b>Palavra-chave die:</> <i>Palavra-chave die para definir o cartão como reprovado</>"
+    },
+    "retrys": "5",
+    "currentChecker": "falselive"
+  }
+}
